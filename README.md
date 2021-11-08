@@ -26,7 +26,9 @@ TBC
 
 # Batch processing
 
-TBC
+Relevant functions:
+- gimp-image-resize
+- gimp-layer-resize-to-image-size
 
 # References
 - [GIMP documentation](https://docs.gimp.org/en/gimp-using-script-fu-tutorial.html)
