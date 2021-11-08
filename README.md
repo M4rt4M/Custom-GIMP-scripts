@@ -19,7 +19,7 @@ We don't need to worry about how to “return” the result of our function — 
 
 # Batch processing
 
-### References
+# References
 - [GIMP documentation](https://docs.gimp.org/en/gimp-using-script-fu-tutorial.html)
 - [Function reference](https://docs.gimp.org/en/gimp-function-reference.html)
 - [About batch mode](https://www.gimp.org/tutorials/Basic_Batch/)
