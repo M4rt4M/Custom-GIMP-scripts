@@ -1,5 +1,7 @@
 # Custom-GIMP-scripts
 
+Scripts are written in Script-Fu, with extension of `.scm`.
+
 ## Declaring Variables
 
 Use following syntax `(let* ( variables ) expressions )`, for example: `(let* ((a 1)(b 2))(+ a b))`. This declares two local variables, a and b, initializes them, then prints the sum of the two variables.
