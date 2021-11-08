@@ -18,6 +18,7 @@ We don't need to worry about how to “return” the result of our function — 
 ## Registering your script
 
 # Batch processing
+TBC
 
 # References
 - [GIMP documentation](https://docs.gimp.org/en/gimp-using-script-fu-tutorial.html)
