@@ -17,9 +17,12 @@ We don't need to worry about how to “return” the result of our function — 
 
 ## Registering your script
 
-## References
+# Batch processing
+
+### References
 - [GIMP documentation](https://docs.gimp.org/en/gimp-using-script-fu-tutorial.html)
 - [Function reference](https://docs.gimp.org/en/gimp-function-reference.html)
+- [About batch mode](https://www.gimp.org/tutorials/Basic_Batch/)
 
-## How to find wehat you need for your script
- In GIMP go to Filter>Script-fu>Console>Browse
+### How to find wehat you need for your script
+ In GIMP go to Filter>Script-fu>Console>Browse - this opens a Procedure Browser, which gives you a detailed list of all commands.
